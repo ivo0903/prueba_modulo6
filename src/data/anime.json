@@ -1,0 +1,58 @@
+[
+    {
+        "id": "2cebded",
+        "nombre": "Akira 2",
+        "genero": "Seinen",
+        "anio": 1988,
+        "autor": "Katsuhiro Otomo",
+        "active": true
+    },
+    {
+        "id": "2f0f809",
+        "nombre": "Dragon Ball",
+        "genero": "Shonene",
+        "anio": 1986,
+        "autor": "Akira Toriyama",
+        "active": true
+    },
+    {
+        "id": "3010592",
+        "nombre": "Sailor Moon",
+        "genero": "Shojo",
+        "anio": 1992,
+        "autor": "Naoko Takeuchi",
+        "active": true
+    },
+    {
+        "id": "9c05d49",
+        "nombre": "Naruto",
+        "genero": "Shonen",
+        "anio": 2002,
+        "autor": "Masashi Kishimoto",
+        "active": true
+    },
+    {
+        "id": "427a92f",
+        "nombre": "Neon Genesis Evangelion",
+        "genero": "Mecha",
+        "anio": 2000,
+        "autor": "Yoshiyuki Sadamoto",
+        "active": false
+    },
+    {
+        "id": "a318ac6",
+        "nombre": "Akira",
+        "genero": "Seinen",
+        "anio": 1988,
+        "autor": "Katsuhiro Otomo",
+        "active": true
+    },
+    {
+        "id": "7a52cea",
+        "nombre": "Akira",
+        "genero": "Seinen",
+        "anio": 1988,
+        "autor": "Katsuhiro Otomo",
+        "active": true
+    }
+]

@@ -1,0 +1,26 @@
+{
+  "name": "prueba_mod6_patricia_fuica",
+  "version": "1.0.0",
+  "description": "\"prueba del modulo 6 Animacion Japonesa\"",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha",
+    "dev": "nodemon ./src/main.js"
+  },
+  "keywords": [
+    "api-crud-express"
+  ],
+  "author": "patricia fuica",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "uuid": "^11.0.3"
+  },
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^10.8.2",
+    "nodemon": "^3.1.7",
+    "supertest": "^7.0.0"
+  }
+}
